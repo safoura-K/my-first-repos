@@ -10,4 +10,11 @@
 <body>
     <h1>My first repos</h1>
     <p>lallalalalalalalallalalalalalalallalllalallalalalallalalalllajdueudehucbeubuueneuce</p>
+   
+    <ul>
+        <li>food</li>
+        <li>tea</li>
+    </ul>
+    <p><ol> <li> orange</li>
+        <li> apple</li></ol></p>
 </body>
