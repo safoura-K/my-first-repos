@@ -15,6 +15,10 @@
         <li>food</li>
         <li>tea</li>
     </ul>
-    <p><ol> <li> orange</li>
-        <li> apple</li></ol></p>
+    <p>
+        <ol>
+             <li> orange</li>
+             <li> apple</li>
+    </ol>
+</p>
 </body>
