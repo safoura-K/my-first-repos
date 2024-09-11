@@ -21,17 +21,8 @@ body {
     font-weight: bold;
     font-size: larger;
     }
-
-    h2 { 
-    color: darkorange;
-    font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
-    margin: 15px;
-    }
-
-    h3 {
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
+    main{
+        background-color: white;
     }
 
 
